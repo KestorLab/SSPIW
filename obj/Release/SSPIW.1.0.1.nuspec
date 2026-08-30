@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SSPIW</id>
+    <version>1.0.1</version>
+    <authors>Maksim_Nazarov</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Лёгкая библиотека для упрощения кода сериализации/десериализации Json</description>
+    <repository type="git" commit="29036a71554deb2d7d81aec8cacbf635dc157846" />
+    <dependencies>
+      <group targetFramework="net11.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\maksi\RiderProjects\SSPIW\SSPIW\bin\Release\net11.0\SSPIW.dll" target="lib\net11.0\SSPIW.dll" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\bin\Release\net11.0\SSPIW.deps.json
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\bin\Release\net11.0\SSPIW.dll
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\bin\Release\net11.0\SSPIW.pdb
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\SSPIW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\SSPIW.AssemblyInfoInputs.cache
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\SSPIW.AssemblyInfo.cs
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\SSPIW.csproj.CoreCompileInputs.cache
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\SSPIW.dll
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\refint\SSPIW.dll
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\SSPIW.pdb
+C:\Users\maksi\RiderProjects\SSPIW\SSPIW\obj\Release\net11.0\ref\SSPIW.dll
