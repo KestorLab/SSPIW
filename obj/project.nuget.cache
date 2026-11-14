@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gqqLforQgoI=",
+  "dgSpecHash": "bZMLqsb+GKE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maksi\\RiderProjects\\SSPIW\\SSPIW\\SSPIW.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/maksimka/RiderProjects/SSPIW/SSPIW.csproj",
+  "expectedPackageFiles": [
+    "/home/maksimka/.nuget/packages/microsoft.aspnetcore.app.ref/11.0.0-rc.2.26504.105/microsoft.aspnetcore.app.ref.11.0.0-rc.2.26504.105.nupkg.sha512"
+  ],
   "logs": []
 }

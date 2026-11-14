@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v11.0": {
-      "SSPIW/1.0.1": {
+      "SSPIW/1.0.2": {
         "runtime": {
           "SSPIW.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "SSPIW/1.0.1": {
+    "SSPIW/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

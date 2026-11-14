@@ -5,11 +5,18 @@
     <TargetFramework>net11.0</TargetFramework>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Maksim_Nazarov</Authors>
     <Description>Лёгкая библиотека для упрощения кода сериализации/десериализации Json </Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageId>SSPIW</PackageId>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<RepositoryUrl>https://github.com/KestorLab/SSPIW</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
+	<PackageReleaseNotes> Поправленна ошибка путей, она не влияла на работу, но надёжность наше всё </PackageReleaseNotes>
   </PropertyGroup>
+  <ItemGroup>
+	<None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
 
 </Project>

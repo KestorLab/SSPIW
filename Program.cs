@@ -77,13 +77,20 @@ public class SSPIW
     
     try
     {
+      string normaldir;
+      string directory;
       
       file_name = file_name.Trim();
-      string normaldir;
-      string directory = path; 
-      if (string.IsNullOrEmpty(path)) { directory = AppDomain.CurrentDomain.BaseDirectory; }
+      
+      if (string.IsNullOrWhiteSpace(path)) { directory = AppDomain.CurrentDomain.BaseDirectory; }
+      else
+      {
+        directory = path; 
+      }
+      
       string directoryPath = Path.GetDirectoryName(path);
-      if (string.IsNullOrEmpty(path))
+      
+      if (string.IsNullOrWhiteSpace(path))
       {
         normaldir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, file_name);
       }
